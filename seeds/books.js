@@ -58,7 +58,7 @@ exports.seed = function(knex, Promise) {
           id: 8,
           book: 'Mosiah',
           total_chapters: 29,
-          total_verses: 785,
+          total_verses: 785,h
           key: 'mos'
         },
         {

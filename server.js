@@ -5,17 +5,34 @@ const knex = require('./knex.js');
 // app.use('/', function(req,res,next){
 //   res.sendStatus(200);
 // });
-app.get('/:book', function(req,res,next){
-  console.log(req.params.book);
-  // knex('books')
-  // .where('id', 1)
-  // .returning('*')
-  // .first()
-  // .then((book)=>{
-  //   console.log(book);
-  // });
+app.get('/:bookKey', function(req,res,next){
+  knex('books')
+  .where('key', req.params.bookKey)
+  .returning('*')
+  .first()
+  .then((book)=>{
+    if (typeof book === 'undefined') {
+      res.sendStatus(400);
+      return;
+    }
+    knex('verses')
+    .where('book_id',book.id)
+    .returning('*')
+    .then((verses)=>{
+      let versesObj = {};
+      verses.forEach((verse) => {
+        if(versesObj.hasOwnProperty(`chapter ${verse.chapter}`)){
+          versesObj[`chapter ${verse.chapter}`].push(verse);
+        }else{
+          versesObj[`chapter ${verse.chapter}`] = [verse];
+        }
+      })
 
-  res.send('meow')
+
+      book.verses = versesObj;
+      res.send(book);
+    });
+  });
 });
 
 app.listen(8000,()=>{
