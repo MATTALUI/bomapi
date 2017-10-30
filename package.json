@@ -1,0 +1,25 @@
+{
+  "name": "bomapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MATTALUI/bomapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MATTALUI/bomapi/issues"
+  },
+  "homepage": "https://github.com/MATTALUI/bomapi#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "knex": "^0.13.0",
+    "pg": "^7.3.0"
+  }
+}
