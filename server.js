@@ -26,10 +26,13 @@ app.get('/:bookKey', function(req,res,next){
         }else{
           versesObj[`chapter ${verse.chapter}`] = [verse];
         }
-      })
+      });
 
-
-      book.verses = versesObj;
+      if(req.query.all === 'true'){
+        book.verses = versesObj;
+      }else{
+        book.verses = versesObj['chapter 1'];
+      }
       res.send(book);
     });
   });
