@@ -162,11 +162,4 @@ module.exports = [
     chapter: 1
   }
 
-]
-
-let template = {
-  book_id: 4,
-  text: "",
-  verse: 2,
-  chapter: 1
-}
+];

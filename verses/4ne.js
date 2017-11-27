@@ -294,9 +294,3 @@ module.exports = [
     chapter: 1
   }
 ];
-let template = {
-  book_id: 12,
-  text: "",
-  verse: 1,
-  chapter: 1
-}
