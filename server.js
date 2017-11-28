@@ -8,6 +8,10 @@ const port = process.env.PORT || 8000;
 // });
 
 app.get('/:bookKey/:chapter/:startVerse/:endVerse',function(req,res,next){
+  if(req.params.startVerse>=req.params.endVerse){
+    res.sendStatus(404);
+    return;
+  }
   knex('books')
   .where('key', req.params.bookKey)
   .returning('*')
