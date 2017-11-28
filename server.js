@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const knex = require('./knex.js');
+const port = process.env.PORT || 8000;
 
 // app.use('/', function(req,res,next){
 //   res.sendStatus(200);
@@ -117,6 +118,6 @@ app.get('/:bookKey', function(req,res,next){
   });
 });
 
-app.listen(8000,()=>{
-  console.log('listening on :8000');
+app.listen(port,()=>{
+  console.log('listening on :', port);
 });
