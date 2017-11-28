@@ -24,8 +24,10 @@ app.get('/:bookKey/:chapter/:startVerse/:endVerse',function(req,res,next){
       let relevantVerses = chapter.filter((verse)=>{
         return ((verse.verse>=req.params.startVerse)&&(verse.verse<=req.params.endVerse))
       });
+      delete book.total_chapters;
       book.reference = `${book.book} ${req.params.chapter}:${req.params.startVerse}-${req.params.endVerse}`;
       book.verses = relevantVerses;
+      book.total_verses = book.verses.length;
       res.send(book);
     });
   });
@@ -74,7 +76,9 @@ app.get('/:bookKey/:chapter',function(req,res,next){
         res.sendStatus(404);
         return;
       }
+      delete book.total_chapters;
       book.chapter = chapter;
+      book.total_verses = chapter.length;
       res.send(book);
     });
   });
@@ -103,11 +107,11 @@ app.get('/:bookKey', function(req,res,next){
         }
       });
 
-      if(req.query.all === 'true'){
+      // if(req.query.all === 'true'){
         book.verses = versesObj;
-      }else{
-        book.verses = versesObj['chapter 1'];
-      }
+      // }else{
+        // book.verses = versesObj['chapter 1'];
+      // }
       res.send(book);
     });
   });
