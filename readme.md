@@ -1,3 +1,4 @@
+```https://bomapi.herokuapp.com/:bookKey/:chapter/:startingVerse/:endingVerse```
 
 
 |Book|Key|
