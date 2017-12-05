@@ -2026,6 +2026,171 @@ module.exports = [
   },
 
 
+
+
+
+
+
+
+
+
+  {
+    book_id: 2,
+    text: "For behold, the Lord, the Lord of Hosts, doth take away from Jerusalem, and from Judah, the stay and the staff, the whole staff of bread, and the whole stay of water—",
+    verse: 1,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient;",
+    verse: 2,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The captain of fifty, and the honorable man, and the counselor, and the cunning artificer, and the eloquent orator.",
+    verse: 3,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "And I will give children unto them to be their princes, and babes shall rule over them.",
+    verse: 4,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "And the people shall be oppressed, every one by another, and every one by his neighbor; the child shall behave himself proudly against the ancient, and the base against the honorable.",
+    verse: 5,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "When a man shall take hold of his brother of the house of his father, and shall say: Thou hast clothing, be thou our ruler, and let not this ruin come under thy hand—",
+    verse: 6,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "In that day shall he swear, saying: I will not be a healer; for in my house there is neither bread nor clothing; make me not a ruler of the people.",
+    verse: 7,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "For Jerusalem is ruined, and Judah is fallen, because their tongues and their doings have been against the Lord, to provoke the eyes of his glory.",
+    verse: 8,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The show of their countenance doth witness against them, and doth declare their sin to be even as Sodom, and they cannot hide it. Wo unto their souls, for they have rewarded evil unto themselves!",
+    verse: 9,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "Say unto the righteous that it is well with them; for they shall eat the fruit of their doings.",
+    verse: 10,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: " Wo unto the wicked, for they shall perish; for the reward of their hands shall be upon them!",
+    verse: 11,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "And my people, children are their oppressors, and women rule over them. O my people, they who lead thee cause thee to err and destroy the way of thy paths.",
+    verse: 12,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The Lord standeth up to plead, and standeth to judge the people.",
+    verse: 13,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The Lord will enter into judgment with the ancients of his people and the princes thereof; for ye have eaten up the vineyard and the spoil of the poor in your houses.",
+    verse: 14,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "What mean ye? Ye beat my people to pieces, and grind the faces of the poor, saith the Lord God of Hosts.",
+    verse: 15,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "Moreover, the Lord saith: Because the daughters of Zion are haughty, and walk with stretched-forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet—",
+    verse: 16,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts.",
+    verse: 17,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "In that day the Lord will take away the bravery of their tinkling ornaments, and cauls, and round tires like the moon;",
+    verse: 18,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The chains and the bracelets, and the mufflers;",
+    verse: 19,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the ear-rings;",
+    verse: 20,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The rings, and nose jewels;",
+    verse: 21,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The changeable suits of apparel, and the mantles, and the wimples, and the crisping-pins;",
+    verse: 22,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "The glasses, and the fine linen, and hoods, and the veils.",
+    verse: 23,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "And it shall come to pass, instead of sweet smell there shall be stink; and instead of a girdle, a rent; and instead of well set hair, baldness; and instead of a stomacher, a girding of sackcloth; burning instead of beauty.",
+    verse: 24,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "Thy men shall fall by the sword and thy mighty in the war.",
+    verse: 25,
+    chapter: 13
+  },
+  {
+    book_id: 2,
+    text: "And her gates shall lament and mourn; and she shall be desolate, and shall sit upon the ground.",
+    verse: 26,
+    chapter: 13
+  },
+
 ];
 
 let template = {
