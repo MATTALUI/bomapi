@@ -2514,6 +2514,166 @@ module.exports = [
     chapter: 16
   },
 
+
+
+
+
+
+
+
+
+
+  {
+    book_id: 2,
+    text: "And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin, king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.",
+    verse: 1,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And it was told the house of David, saying: Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.",
+    verse: 2,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "Then said the Lord unto Isaiah: Go forth now to meet Ahaz, thou and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller’s field;",
+    verse: 3,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And say unto him: Take heed, and be quiet; fear not, neither be faint-hearted for the two tails of these smoking firebrands, for the fierce anger of Rezin with Syria, and of the son of Remaliah.",
+    verse: 4,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying:",
+    verse: 5,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "Let us go up against Judah and vex it, and let us make a breach therein for us, and set a king in the midst of it, yea, the son of Tabeal.",
+    verse: 6,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "Thus saith the Lord God: It shall not stand, neither shall it come to pass.",
+    verse: 7,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "For the head of Syria is Damascus, and the head of Damascus, Rezin; and within threescore and five years shall Ephraim be broken that it be not a people.",
+    verse: 8,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If ye will not believe surely ye shall not be established.",
+    verse: 9,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "Moreover, the Lord spake again unto Ahaz, saying:",
+    verse: 10,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "Ask thee a sign of the Lord thy God; ask it either in the depths, or in the heights above.",
+    verse: 11,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "But Ahaz said: I will not ask, neither will I tempt the Lord.",
+    verse: 12,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And he said: Hear ye now, O house of David; is it a small thing for you to weary men, but will ye weary my God also?",
+    verse: 13,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "Therefore, the Lord himself shall give you a sign—Behold, a virgin shall conceive, and shall bear a son, and shall call his name Immanuel.",
+    verse: 14,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "Butter and honey shall he eat, that he may know to refuse the evil and to choose the good.",
+    verse: 15,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "For before the child shall know to refuse the evil and choose the good, the land that thou abhorrest shall be forsaken of both her kings.",
+    verse: 16,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "The Lord shall bring upon thee, and upon thy people, and upon thy father’s house, days that have not come from the day that Ephraim departed from Judah, the king of Assyria.",
+    verse: 17,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And it shall come to pass in that day that the Lord shall hiss for the fly that is in the uttermost part of Egypt, and for the bee that is in the land of Assyria.",
+    verse: 18,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.",
+    verse: 19,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "In the same day shall the Lord shave with a razor that is hired, by them beyond the river, by the king of Assyria, the head, and the hair of the feet; and it shall also consume the beard.",
+    verse: 20,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And it shall come to pass in that day, a man shall nourish a young cow and two sheep;",
+    verse: 21,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And it shall come to pass, for the abundance of milk they shall give he shall eat butter; for butter and honey shall every one eat that is left in the land.",
+    verse: 22,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And it shall come to pass in that day, every place shall be, where there were a thousand vines at a thousand silverlings, which shall be for briers and thorns.",
+    verse: 23,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "With arrows and with bows shall men come thither, because all the land shall become briers and thorns.",
+    verse: 24,
+    chapter: 17
+  },
+  {
+    book_id: 2,
+    text: "And all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns; but it shall be for the sending forth of oxen, and the treading of lesser cattle.",
+    verse: 25,
+    chapter: 17
+  },
+
 ];
 
 let template = {
