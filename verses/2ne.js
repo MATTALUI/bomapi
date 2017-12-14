@@ -2952,6 +2952,220 @@ module.exports = [
     chapter: 19
   },
 
+
+
+
+
+
+
+
+
+
+  {
+    book_id: 2,
+    text: "Wo unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;",
+    verse: 1,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "To turn away the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they may rob the fatherless!",
+    verse: 2,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And what will ye do in the day of visitation, and in the desolation which shall come from far? to whom will ye flee for help? and where will ye leave your glory?",
+    verse: 3,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Without me they shall bow down under the prisoners, and they shall fall under the slain. For all this his anger is not turned away, but his hand is stretched out still.",
+    verse: 4,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "O Assyrian, the rod of mine anger, and the staff in their hand is their indignation.",
+    verse: 5,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "I will send him against a hypocritical nation, and against the people of my wrath will I give him a charge to take the spoil, and to take the prey, and to tread them down like the mire of the streets.",
+    verse: 6,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Howbeit he meaneth not so, neither doth his heart think so; but in his heart it is to destroy and cut off nations not a few.",
+    verse: 7,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "For he saith: Are not my princes altogether kings?",
+    verse: 8,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Is not Calno as Carchemish? Is not Hamath as Arpad? Is not Samaria as Damascus?",
+    verse: 9,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "As my hand hath founded the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;",
+    verse: 10,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and to her idols?",
+    verse: 11,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Wherefore it shall come to pass that when the Lord hath performed his whole work upon Mount Zion and upon Jerusalem, I will punish the fruit of the stout heart of the king of Assyria, and the glory of his high looks.",
+    verse: 12,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "For he saith: By the strength of my hand and by my wisdom I have done these things; for I am prudent; and I have moved the borders of the people, and have robbed their treasures, and I have put down the inhabitants like a valiant man;",
+    verse: 13,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And my hand hath found as a nest the riches of the people; and as one gathereth eggs that are left have I gathered all the earth; and there was none that moved the wing, or opened the mouth, or peeped.",
+    verse: 14,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Shall the ax boast itself against him that heweth therewith? Shall the saw magnify itself against him that shaketh it? As if the rod should shake itself against them that lift it up, or as if the staff should lift up itself as if it were no wood!",
+    verse: 15,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Therefore shall the Lord, the Lord of Hosts, send among his fat ones, leanness; and under his glory he shall kindle a burning like the burning of a fire.",
+    verse: 16,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And the light of Israel shall be for a fire, and his Holy One for a flame, and shall burn and shall devour his thorns and his briers in one day;",
+    verse: 17,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And shall consume the glory of his forest, and of his fruitful field, both soul and body; and they shall be as when a standard-bearer fainteth.",
+    verse: 18,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And the rest of the trees of his forest shall be few, that a child may write them.",
+    verse: 19,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them, but shall stay upon the Lord, the Holy One of Israel, in truth.",
+    verse: 20,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "The remnant shall return, yea, even the remnant of Jacob, unto the mighty God.",
+    verse: 21,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "For though thy people Israel be as the sand of the sea, yet a remnant of them shall return; the consumption decreed shall overflow with righteousness.",
+    verse: 22,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "For the Lord God of Hosts shall make a consumption, even determined in all the land.",
+    verse: 23,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Therefore, thus saith the Lord God of Hosts: O my people that dwellest in Zion, be not afraid of the Assyrian; he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt.",
+    verse: 24,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "For yet a very little while, and the indignation shall cease, and mine anger in their destruction.",
+    verse: 25,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And the Lord of Hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb; and as his rod was upon the sea so shall he lift it up after the manner of Egypt.",
+    verse: 26,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And it shall come to pass in that day that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.",
+    verse: 27,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "He is come to Aiath, he is passed to Migron; at Michmash he hath laid up his carriages.",
+    verse: 28,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "They are gone over the passage; they have taken up their lodging at Geba; Ramath is afraid; Gibeah of Saul is fled.",
+    verse: 29,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Lift up the voice, O daughter of Gallim; cause it to be heard unto Laish, O poor Anathoth.",
+    verse: 30,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Madmenah is removed; the inhabitants of Gebim gather themselves to flee.",
+    verse: 31,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "As yet shall he remain at Nob that day; he shall shake his hand against the mount of the daughter of Zion, the hill of Jerusalem.",
+    verse: 32,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "Behold, the Lord, the Lord of Hosts shall lop the bough with terror; and the high ones of stature shall be hewn down; and the haughty shall be humbled.",
+    verse: 33,
+    chapter: 20
+  },
+  {
+    book_id: 2,
+    text: "And he shall cut down the thickets of the forests with iron, and Lebanon shall fall by a mighty one.",
+    verse: 34,
+    chapter: 20
+  },
+
 ];
 
 let template = {
