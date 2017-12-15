@@ -3272,6 +3272,52 @@ module.exports = [
     chapter: 21
   },
 
+
+
+
+
+
+
+
+
+
+  {
+    book_id: 2,
+    text: "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.",
+    verse: 1,
+    chapter: 22
+  },
+  {
+    book_id: 2,
+    text: "Behold, God is my salvation; I will trust, and not be afraid; for the Lord Jehovah is my strength and my song; he also has become my salvation.",
+    verse: 2,
+    chapter: 22
+  },
+  {
+    book_id: 2,
+    text: "Therefore, with joy shall ye draw water out of the wells of salvation.",
+    verse: 3,
+    chapter: 22
+  },
+  {
+    book_id: 2,
+    text: "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+    verse: 4,
+    chapter: 22
+  },
+  {
+    book_id: 2,
+    text: "Sing unto the Lord; for he hath done excellent things; this is known in all the earth.",
+    verse: 5,
+    chapter: 22
+  },
+  {
+    book_id: 2,
+    text: "Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.",
+    verse: 6,
+    chapter: 22
+  },
+
 ];
 
 let template = {
