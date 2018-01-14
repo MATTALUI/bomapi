@@ -2120,9 +2120,91 @@ module.exports = [
   },
   {
     book_id: 8,
-    text: "Yea, and have they not said also that he should bring to pass the resurrection of the dead, and that he, himself, should be oppressed and afflicted?",
+    text: "Yea, and have they not said also that he should bring to pass the resurrection of the dead, and that he, himself, should be oppressed and afflicted?1",
     verse: 35,
     chapter: 13
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    book_id: 8,
+    text: "Yea, even doth not Isaiah say: Who hath believed our report, and to whom is the arm of the Lord revealed?",
+    verse: 1,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "For he shall grow up before him as a tender plant, and as a root out of dry ground; he hath no form nor comeliness; and when we shall see him there is no beauty that we should desire him.",
+    verse: 2,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "He is despised and rejected of men; a man of sorrows, and acquainted with grief; and we hid as it were our faces from him; he was despised, and we esteemed him not.",
+    verse: 3,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "Surely he has borne our griefs, and carried our sorrows; yet we did esteem him stricken, smitten of God, and afflicted.",
+    verse: 4,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed.",
+    verse: 5,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "All we, like sheep, have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquities of us all.",
+    verse: 6,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "He was oppressed, and he was afflicted, yet he opened not his mouth; he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb so he opened not his mouth.",
+    verse: 7,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "He was taken from prison and from judgment; and who shall declare his generation? For he was cut off out of the land of the living; for the transgressions of my people was he stricken.",
+    verse: 8,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "And he made his grave with the wicked, and with the rich in his death; because he had done no evil, neither was any deceit in his mouth.",
+    verse: 9,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "Yet it pleased the Lord to bruise him; he hath put him to grief; when thou shalt make his soul an offering for sin he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.",
+    verse: 10,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "He shall see the travail of his soul, and shall be satisfied; by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.",
+    verse: 11,
+    chapter: 14
+  },
+  {
+    book_id: 8,
+    text: "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death; and he was numbered with the transgressors; and he bore the sins of many, and made intercession for the transgressors.",
+    verse: 12,
+    chapter: 14
   },
 ];
 
