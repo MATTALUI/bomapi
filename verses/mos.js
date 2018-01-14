@@ -1360,133 +1360,133 @@ module.exports = [
     book_id: 8,
     text: "And it came to pass that we again began to establish the kingdom and we again began to possess the land in peace. And I caused that there should be weapons of war made of every kind, that thereby I might have weapons for my people against the time the Lamanites should come up again to war against my people.",
     verse: 1,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And I set guards round about the land, that the Lamanites might not come upon us again unawares and destroy us; and thus I did guard my people and my flocks, and keep them from falling into the hands of our enemies.",
     verse: 2,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And it came to pass that we did inherit the land of our fathers for many years, yea, for the space of twenty and two years.",
     verse: 3,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And I did cause that the men should till the ground, and raise all manner of grain and all manner of fruit of every kind.",
     verse: 4,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And I did cause that the women should spin, and toil, and work, and work all manner of fine linen, yea, and cloth of every kind, that we might clothe our nakedness; and thus we did prosper in the land—thus we did have continual peace in the land for the space of twenty and two years.",
     verse: 5,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And it came to pass that king Laman died, and his son began to reign in his stead. And he began to stir his people up in rebellion against my people; therefore they began to prepare for war, and to come up to battle against my people.",
     verse: 6,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "But I had sent my spies out round about the land of Shemlon, that I might discover their preparations, that I might guard against them, that they might not come upon my people and destroy them.",
     verse: 7,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And it came to pass that they came up upon the north of the land of Shilom, with their numerous hosts, men armed with bows, and with arrows, and with swords, and with cimeters, and with stones, and with slings; and they had their heads shaved that they were naked; and they were girded with a leathern girdle about their loins.",
     verse: 8,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And it came to pass that I caused that the women and children of my people should be hid in the wilderness; and I also caused that all my old men that could bear arms, and also all my young men that were able to bear arms, should gather themselves together to go to battle against the Lamanites; and I did place them in their ranks, every man according to his age.",
     verse: 9,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And it came to pass that we did go up to battle against the Lamanites; and I, even I, in my old age, did go up to battle against the Lamanites. And it came to pass that we did go up in the strength of the Lord to battle.",
     verse: 10,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "Now, the Lamanites knew nothing concerning the Lord, nor the strength of the Lord, therefore they depended upon their own strength. Yet they were a strong people, as to the strength of men.",
     verse: 11,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "They were a wild, and ferocious, and a blood-thirsty people, believing in the tradition of their fathers, which is this—Believing that they were driven out of the land of Jerusalem because of the iniquities of their fathers, and that they were wronged in the wilderness by their brethren, and they were also wronged while crossing the sea;",
     verse: 12,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And again, that they were wronged while in the land of their first inheritance, after they had crossed the sea, and all this because that Nephi was more faithful in keeping the commandments of the Lord—therefore he was favored of the Lord, for the Lord heard his prayers and answered them, and he took the lead of their journey in the wilderness.",
     verse: 13,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And his brethren were wroth with him because they understood not the dealings of the Lord; they were also wroth with him upon the waters because they hardened their hearts against the Lord.",
     verse: 14,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And again, they were wroth with him when they had arrived in the promised land, because they said that he had taken the ruling of the people out of their hands; and they sought to kill him.",
     verse: 15,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And again, they were wroth with him because he departed into the wilderness as the Lord had commanded him, and took the records which were engraven on the plates of brass, for they said that he robbed them.",
     verse: 16,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And thus they have taught their children that they should hate them, and that they should murder them, and that they should rob and plunder them, and do all they could to destroy them; therefore they have an eternal hatred towards the children of Nephi.",
     verse: 17,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "For this very cause has king Laman, by his cunning, and lying craftiness, and his fair promises, deceived me, that I have brought this my people up into this land, that they may destroy them; yea, and we have suffered these many years in the land.",
     verse: 18,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And now I, Zeniff, after having told all these things unto my people concerning the Lamanites, I did stimulate them to go to battle with their might, putting their trust in the Lord; therefore, we did contend with them, face to face.",
     verse: 19,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And it came to pass that we did drive them again out of our land; and we slew them with a great slaughter, even so many that we did not number them.",
     verse: 20,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And it came to pass that we returned again to our own land, and my people again began to tend their flocks, and to till their ground.",
     verse: 21,
-    chapter: 9
+    chapter: 10
   },
   {
     book_id: 8,
     text: "And now I, being old, did confer the kingdom upon one of my sons; therefore, I say no more. And may the Lord bless my people. Amen.",
     verse: 22,
-    chapter: 9
+    chapter: 10
   },
 
 
@@ -1502,175 +1502,175 @@ module.exports = [
     book_id: 8,
     text: "And now it came to pass that Zeniff conferred the kingdom upon Noah, one of his sons; therefore Noah began to reign in his stead; and he did not walk in the ways of his father.",
     verse: 1,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "For behold, he did not keep the commandments of God, but he did walk after the desires of his own heart. And he had many wives and concubines. And he did cause his people to commit sin, and do that which was abominable in the sight of the Lord. Yea, and they did commit whoredoms and all manner of wickedness.",
     verse: 2,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And he laid a tax of one fifth part of all they possessed, a fifth part of their gold and of their silver, and a fifth part of their ziff, and of their copper, and of their brass and their iron; and a fifth part of their fatlings; and also a fifth part of all their grain.",
     verse: 3,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And all this did he take to support himself, and his wives and his concubines; and also his priests, and their wives and their concubines; thus he had changed the affairs of the kingdom.",
     verse: 4,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "For he put down all the priests that had been consecrated by his father, and consecrated new ones in their stead, such as were lifted up in the pride of their hearts.",
     verse: 5,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "Yea, and thus they were supported in their laziness, and in their idolatry, and in their whoredoms, by the taxes which king Noah had put upon his people; thus did the people labor exceedingly to support iniquity.",
     verse: 6,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "Yea, and they also became idolatrous, because they were deceived by the vain and flattering words of the king and priests; for they did speak flattering things unto them.",
     verse: 7,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it came to pass that king Noah built many elegant and spacious buildings; and he ornamented them with fine work of wood, and of all manner of precious things, of gold, and of silver, and of iron, and of brass, and of ziff, and of copper;",
     verse: 8,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And he also built him a spacious palace, and a throne in the midst thereof, all of which was of fine wood and was ornamented with gold and silver and with precious things.",
     verse: 9,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And he also caused that his workmen should work all manner of fine work within the walls of the temple, of fine wood, and of copper, and of brass.",
     verse: 10,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And the seats which were set apart for the high priests, which were above all the other seats, he did ornament with pure gold; and he caused a breastwork to be built before them, that they might rest their bodies and their arms upon while they should speak lying and vain words to his people.",
     verse: 11,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it came to pass that he built a tower near the temple; yea, a very high tower, even so high that he could stand upon the top thereof and overlook the land of Shilom, and also the land of Shemlon, which was possessed by the Lamanites; and he could even look over all the land round about.",
     verse: 12,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it came to pass that he caused many buildings to be built in the land Shilom; and he caused a great tower to be built on the hill north of the land Shilom, which had been a resort for the children of Nephi at the time they fled out of the land; and thus he did do with the riches which he obtained by the taxation of his people.",
     verse: 13,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it came to pass that he placed his heart upon his riches, and he spent his time in riotous living with his wives and his concubines; and so did also his priests spend their time with harlots.",
     verse: 14,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it came to pass that he planted vineyards round about in the land; and he built wine-presses, and made wine in abundance; and therefore he became a wine-bibber, and also his people.",
     verse: 15,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it came to pass that the Lamanites began to come in upon his people, upon small numbers, and to slay them in their fields, and while they were tending their flocks.",
     verse: 16,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And king Noah sent guards round about the land to keep them off; but he did not send a sufficient number, and the Lamanites came upon them and killed them, and drove many of their flocks out of the land; thus the Lamanites began to destroy them, and to exercise their hatred upon them.",
     verse: 17,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it came to pass that king Noah sent his armies against them, and they were driven back, or they drove them back for a time; therefore, they returned rejoicing in their spoil.",
     verse: 18,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And now, because of this great victory they were lifted up in the pride of their hearts; they did boast in their own strength, saying that their fifty could stand against thousands of the Lamanites; and thus they did boast, and did delight in blood, and the shedding of the blood of their brethren, and this because of the wickedness of their king and priests.",
     verse: 19,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it came to pass that there was a man among them whose name was Abinadi; and he went forth among them, and began to prophesy, saying: Behold, thus saith the Lord, and thus hath he commanded me, saying, Go forth, and say unto this people, thus saith the Lord—Wo be unto this people, for I have seen their abominations, and their wickedness, and their whoredoms; and except they repent I will visit them in mine anger.",
     verse: 20,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And except they repent and turn to the Lord their God, behold, I will deliver them into the hands of their enemies; yea, and they shall be brought into bondage; and they shall be afflicted by the hand of their enemies.",
     verse: 21,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it shall come to pass that they shall know that I am the Lord their God, and am a jealous God, visiting the iniquities of my people.",
     verse: 22,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And it shall come to pass that except this people repent and turn unto the Lord their God, they shall be brought into bondage; and none shall deliver them, except it be the Lord the Almighty God.",
     verse: 23,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "Yea, and it shall come to pass that when they shall cry unto me I will be slow to hear their cries; yea, and I will suffer them that they be smitten by their enemies.",
     verse: 24,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "And except they repent in sackcloth and ashes, and cry mightily to the Lord their God, I will not hear their prayers, neither will I deliver them out of their afflictions; and thus saith the Lord, and thus hath he commanded me.",
     verse: 25,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "Now it came to pass that when Abinadi had spoken these words unto them they were wroth with him, and sought to take away his life; but the Lord delivered him out of their hands.",
     verse: 26,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "Now when king Noah had heard of the words which Abinadi had spoken unto the people, he was also wroth; and he said: Who is Abinadi, that I and my people should be judged of him, or who is the Lord, that shall bring upon my people such great affliction?",
     verse: 27,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "I command you to bring Abinadi hither, that I may slay him, for he has said these things that he might stir up my people to anger one with another, and to raise contentions among my people; therefore I will slay him.",
     verse: 28,
-    chapter: 10
+    chapter: 11
   },
   {
     book_id: 8,
     text: "Now the eyes of the people were blinded; therefore they hardened their hearts against the words of Abinadi, and they sought from that time forward to take him. And king Noah hardened his heart against the word of the Lord, and he did not repent of his evil doings.",
     verse: 29,
-    chapter: 10
+    chapter: 11
   },
 
 
@@ -1686,223 +1686,443 @@ module.exports = [
     book_id: 8,
     text: "And it came to pass that after the space of two years that Abinadi came among them in disguise, that they knew him not, and began to prophesy among them, saying: Thus has the Lord commanded me, saying—Abinadi, go and prophesy unto this my people, for they have hardened their hearts against my words; they have repented not of their evil doings; therefore, I will visit them in my anger, yea, in my fierce anger will I visit them in their iniquities and abominations.",
     verse: 1,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Yea, wo be unto this generation! And the Lord said unto me: Stretch forth thy hand and prophesy, saying: Thus saith the Lord, it shall come to pass that this generation, because of their iniquities, shall be brought into bondage, and shall be smitten on the cheek; yea, and shall be driven by men, and shall be slain; and the vultures of the air, and the dogs, yea, and the wild beasts, shall devour their flesh.",
     verse: 2,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it shall come to pass that the life of king Noah shall be valued even as a garment in a hot furnace; for he shall know that I am the Lord.",
     verse: 3,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it shall come to pass that I will smite this my people with sore afflictions, yea, with famine and with pestilence; and I will cause that they shall howl all the day long.",
     verse: 4,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Yea, and I will cause that they shall have burdens lashed upon their backs; and they shall be driven before like a dumb ass.",
     verse: 5,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it shall come to pass that I will send forth hail among them, and it shall smite them; and they shall also be smitten with the east wind; and insects shall pester their land also, and devour their grain.",
     verse: 6,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And they shall be smitten with a great pestilence—and all this will I do because of their iniquities and abominations.",
     verse: 7,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it shall come to pass that except they repent I will utterly destroy them from off the face of the earth; yet they shall leave a record behind them, and I will preserve them for other nations which shall possess the land; yea, even this will I do that I may discover the abominations of this people to other nations. And many things did Abinadi prophesy against this people.",
     verse: 8,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it came to pass that they were angry with him; and they took him and carried him bound before the king, and said unto the king: Behold, we have brought a man before thee who has prophesied evil concerning thy people, and saith that God will destroy them.",
     verse: 9,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And he also prophesieth evil concerning thy life, and saith that thy life shall be as a garment in a furnace of fire.",
     verse: 10,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And again, he saith that thou shalt be as a stalk, even as a dry stalk of the field, which is run over by the beasts and trodden under foot.",
     verse: 11,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And again, he saith thou shalt be as the blossoms of a thistle, which, when it is fully ripe, if the wind bloweth, it is driven forth upon the face of the land. And he pretendeth the Lord hath spoken it. And he saith all this shall come upon thee except thou repent, and this because of thine iniquities.",
     verse: 12,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And now, O king, what great evil hast thou done, or what great sins have thy people committed, that we should be condemned of God or judged of this man?",
     verse: 13,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And now, O king, behold, we are guiltless, and thou, O king, hast not sinned; therefore, this man has lied concerning you, and he has prophesied in vain.",
     verse: 14,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And behold, we are strong, we shall not come into bondage, or be taken captive by our enemies; yea, and thou hast prospered in the land, and thou shalt also prosper.",
     verse: 15,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Behold, here is the man, we deliver him into thy hands; thou mayest do with him as seemeth thee good.",
     verse: 16,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it came to pass that king Noah caused that Abinadi should be cast into prison; and he commanded that the priests should gather themselves together that he might hold a council with them what he should do with him.",
     verse: 17,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it came to pass that they said unto the king: Bring him hither that we may question him; and the king commanded that he should be brought before them.",
     verse: 18,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And they began to question him, that they might cross him, that thereby they might have wherewith to accuse him; but he answered them boldly, and withstood all their questions, yea, to their astonishment; for he did withstand them in all their questions, and did confound them in all their words.",
     verse: 19,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it came to pass that one of them said unto him: What meaneth the words which are written, and which have been taught by our fathers, saying:",
     verse: 20,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "How beautiful upon the mountains are the feet of him that bringeth good tidings; that publisheth peace; that bringeth good tidings of good; that publisheth salvation; that saith unto Zion, Thy God reigneth;",
     verse: 21,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Thy watchmen shall lift up the voice; with the voice together shall they sing; for they shall see eye to eye when the Lord shall bring again Zion;",
     verse: 22,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Break forth into joy; sing together ye waste places of Jerusalem; for the Lord hath comforted his people, he hath redeemed Jerusalem;",
     verse: 23,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "The Lord hath made bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of our God?",
     verse: 24,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And now Abinadi said unto them: Are you priests, and pretend to teach this people, and to understand the spirit of prophesying, and yet desire to know of me what these things mean?",
     verse: 25,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "I say unto you, wo be unto you for perverting the ways of the Lord! For if ye understand these things ye have not taught them; therefore, ye have perverted the ways of the Lord.",
     verse: 26,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Ye have not applied your hearts to understanding; therefore, ye have not been wise. Therefore, what teach ye this people?",
     verse: 27,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And they said: We teach the law of Moses.",
     verse: 28,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And again he said unto them: If ye teach the law of Moses why do ye not keep it? Why do ye set your hearts upon riches? Why do ye commit whoredoms and spend your strength with harlots, yea, and cause this people to commit sin, that the Lord has cause to send me to prophesy against this people, yea, even a great evil against this people?",
     verse: 29,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Know ye not that I speak the truth? Yea, ye know that I speak the truth; and you ought to tremble before God.",
     verse: 30,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And it shall come to pass that ye shall be smitten for your iniquities, for ye have said that ye teach the law of Moses. And what know ye concerning the law of Moses? Doth salvation come by the law of Moses? What say ye?",
     verse: 31,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "And they answered and said that salvation did come by the law of Moses.",
     verse: 32,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "But now Abinadi said unto them: I know if ye keep the commandments of God ye shall be saved; yea, if ye keep the commandments which the Lord delivered unto Moses in the mount of Sinai, saying:",
     verse: 33,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "I am the Lord thy God, who hath brought thee out of the land of Egypt, out of the house of bondage.",
     verse: 34,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Thou shalt have no other God before me.",
     verse: 35,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Thou shalt not make unto thee any graven image, or any likeness of any thing in heaven above, or things which are in the earth beneath.",
     verse: 36,
-    chapter: 11
+    chapter: 12
   },
   {
     book_id: 8,
     text: "Now Abinadi said unto them, Have ye done all this? I say unto you, Nay, ye have not. And have ye taught this people that they should do all these things? I say unto you, Nay, ye have not.",
     verse: 37,
-    chapter: 11
+    chapter: 12
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    book_id: 8,
+    text: "And now when the king had heard these words, he said unto his priests: Away with this fellow, and slay him; for what have we to do with him, for he is mad.",
+    verse: 1,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And they stood forth and attempted to lay their hands on him; but he withstood them, and said unto them:",
+    verse: 2,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Touch me not, for God shall smite you if ye lay your hands upon me, for I have not delivered the message which the Lord sent me to deliver; neither have I told you that which ye requested that I should tell; therefore, God will not suffer that I shall be destroyed at this time.",
+    verse: 3,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "But I must fulfil the commandments wherewith God has commanded me; and because I have told you the truth ye are angry with me. And again, because I have spoken the word of God ye have judged me that I am mad.",
+    verse: 4,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Now it came to pass after Abinadi had spoken these words that the people of king Noah durst not lay their hands on him, for the Spirit of the Lord was upon him; and his face shone with exceeding luster, even as Moses’ did while in the mount of Sinai, while speaking with the Lord.",
+    verse: 5,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And he spake with power and authority from God; and he continued his words, saying:",
+    verse: 6,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Ye see that ye have not power to slay me, therefore I finish my message. Yea, and I perceive that it cuts you to your hearts because I tell you the truth concerning your iniquities.",
+    verse: 7,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Yea, and my words fill you with wonder and amazement, and with anger.",
+    verse: 8,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "But I finish my message; and then it matters not whither I go, if it so be that I am saved.",
+    verse: 9,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "But this much I tell you, what you do with me, after this, shall be as a type and a shadow of things which are to come.",
+    verse: 10,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And now I read unto you the remainder of the commandments of God, for I perceive that they are not written in your hearts; I perceive that ye have studied and taught iniquity the most part of your lives.",
+    verse: 11,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And now, ye remember that I said unto you: Thou shalt not make unto thee any graven image, or any likeness of things which are in heaven above, or which are in the earth beneath, or which are in the water under the earth.",
+    verse: 12,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And again: Thou shalt not bow down thyself unto them, nor serve them; for I the Lord thy God am a jealous God, visiting the iniquities of the fathers upon the children, unto the third and fourth generations of them that hate me;",
+    verse: 13,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And showing mercy unto thousands of them that love me and keep my commandments.",
+    verse: 14,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him guiltless that taketh his name in vain.",
+    verse: 15,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Remember the sabbath day, to keep it holy.",
+    verse: 16,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Six days shalt thou labor, and do all thy work;",
+    verse: 17,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "But the seventh day, the sabbath of the Lord thy God, thou shalt not do any work, thou, nor thy son, nor thy daughter, thy man-servant, nor thy maid-servant, nor thy cattle, nor thy stranger that is within thy gates;",
+    verse: 18,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "For in six days the Lord made heaven and earth, and the sea, and all that in them is; wherefore the Lord blessed the sabbath day, and hallowed it.",
+    verse: 19,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.",
+    verse: 20,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Thou shalt not kill.",
+    verse: 21,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Thou shalt not commit adultery. Thou shalt not steal.",
+    verse: 22,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Thou shalt not bear false witness against thy neighbor.",
+    verse: 23,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor anything that is thy neighbor’s.",
+    verse: 24,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that after Abinadi had made an end of these sayings that he said unto them: Have ye taught this people that they should observe to do all these things for to keep these commandments?",
+    verse: 25,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "I say unto you, Nay; for if ye had, the Lord would not have caused me to come forth and to prophesy evil concerning this people.",
+    verse: 26,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And now ye have said that salvation cometh by the law of Moses. I say unto you that it is expedient that ye should keep the law of Moses as yet; but I say unto you, that the time shall come when it shall no more be expedient to keep the law of Moses.",
+    verse: 27,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And moreover, I say unto you, that salvation doth not come by the law alone; and were it not for the atonement, which God himself shall make for the sins and iniquities of his people, that they must unavoidably perish, notwithstanding the law of Moses.",
+    verse: 28,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And now I say unto you that it was expedient that there should be a law given to the children of Israel, yea, even a very strict law; for they were a stiffnecked people, quick to do iniquity, and slow to remember the Lord their God;",
+    verse: 29,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Therefore there was a law given them, yea, a law of performances and of ordinances, a law which they were to observe strictly from day to day, to keep them in remembrance of God and their duty towards him.",
+    verse: 30,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "But behold, I say unto you, that all these things were types of things to come.",
+    verse: 31,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "And now, did they understand the law? I say unto you, Nay, they did not all understand the law; and this because of the hardness of their hearts; for they understood not that there could not any man be saved except it were through the redemption of God.",
+    verse: 32,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "For behold, did not Moses prophesy unto them concerning the coming of the Messiah, and that God should redeem his people? Yea, and even all the prophets who have prophesied ever since the world began—have they not spoken more or less concerning these things?",
+    verse: 33,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Have they not said that God himself should come down among the children of men, and take upon him the form of man, and go forth in mighty power upon the face of the earth?",
+    verse: 34,
+    chapter: 13
+  },
+  {
+    book_id: 8,
+    text: "Yea, and have they not said also that he should bring to pass the resurrection of the dead, and that he, himself, should be oppressed and afflicted?",
+    verse: 35,
+    chapter: 13
   },
 ];
 
