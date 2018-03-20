@@ -2502,6 +2502,539 @@ module.exports = [
     verse: 15,
     chapter: 16
   },
+
+
+
+
+
+
+
+
+
+  {
+    book_id: 8,
+    text: "And now it came to pass that when Abinadi had finished these sayings, that the king commanded that the priests should take him and cause that he should be put to death.",
+    verse: 1,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "But there was one among them whose name was Alma, he also being a descendant of Nephi. And he was a young man, and he believed the words which Abinadi had spoken, for he knew concerning the iniquity which Abinadi had testified against them; therefore he began to plead with the king that he would not be angry with Abinadi, but suffer that he might depart in peace.",
+    verse: 2,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "But the king was more wroth, and caused that Alma should be cast out from among them, and sent his servants after him that they might slay him.",
+    verse: 3,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "But he fled from before them and hid himself that they found him not. And he being concealed for many days did write all the words which Abinadi had spoken.",
+    verse: 4,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that the king caused that his guards should surround Abinadi and take him; and they bound him and cast him into prison.",
+    verse: 5,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And after three days, having counseled with his priests, he caused that he should again be brought before him.",
+    verse: 6,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And he said unto him: Abinadi, we have found an accusation against thee, and thou art worthy of death.",
+    verse: 7,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "For thou hast said that God himself should come down among the children of men; and now, for this cause thou shalt be put to death unless thou wilt recall all the words which thou hast spoken evil concerning me and my people.",
+    verse: 8,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "Now Abinadi said unto him: I say unto you, I will not recall the words which I have spoken unto you concerning this people, for they are true; and that ye may know of their surety I have suffered myself that I have fallen into your hands.",
+    verse: 9,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "Yea, and I will suffer even until death, and I will not recall my words, and they shall stand as a testimony against you. And if ye slay me ye will shed innocent blood, and this shall also stand as a testimony against you at the last day.",
+    verse: 10,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And now king Noah was about to release him, for he feared his word; for he feared that the judgments of God would come upon him.",
+    verse: 11,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "But the priests lifted up their voices against him, and began to accuse him, saying: He has reviled the king. Therefore the king was stirred up in anger against him, and he delivered him up that he might be slain.",
+    verse: 12,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that they took him and bound him, and scourged his skin with faggots, yea, even unto death.",
+    verse: 13,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And now when the flames began to scorch him, he cried unto them, saying:",
+    verse: 14,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "Behold, even as ye have done unto me, so shall it come to pass that thy seed shall cause that many shall suffer the pains that I do suffer, even the pains of death by fire; and this because they believe in the salvation of the Lord their God.",
+    verse: 15,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And it will come to pass that ye shall be afflicted with all manner of diseases because of your iniquities.",
+    verse: 16,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "Yea, and ye shall be smitten on every hand, and shall be driven and scattered to and fro, even as a wild flock is driven by wild and ferocious beasts.",
+    verse: 17,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And in that day ye shall be hunted, and ye shall be taken by the hand of your enemies, and then ye shall suffer, as I suffer, the pains of death by fire.",
+    verse: 18,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "Thus God executeth vengeance upon those that destroy his people. O God, receive my soul.",
+    verse: 19,
+    chapter: 17
+  },
+  {
+    book_id: 8,
+    text: "And now, when Abinadi had said these words, he fell, having suffered death by fire; yea, having been put to death because he would not deny the commandments of God, having sealed the truth of his words by his death.",
+    verse: 20,
+    chapter: 17
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    book_id: 8,
+    text: "And now, it came to pass that Alma, who had fled from the servants of king Noah, repented of his sins and iniquities, and went about privately among the people, and began to teach the words of Abinadi—",
+    verse: 1,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "Yea, concerning that which was to come, and also concerning the resurrection of the dead, and the redemption of the people, which was to be brought to pass through the power, and sufferings, and death of Christ, and his resurrection and ascension into heaven.",
+    verse: 2,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And as many as would hear his word he did teach. And he taught them privately, that it might not come to the knowledge of the king. And many did believe his words.",
+    verse: 3,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that as many as did believe him did go forth to a place which was called Mormon, having received its name from the king, being in the borders of the land having been infested, by times or at seasons, by wild beasts.",
+    verse: 4,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "Now, there was in Mormon a fountain of pure water, and Alma resorted thither, there being near the water a thicket of small trees, where he did hide himself in the daytime from the searches of the king.",
+    verse: 5,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that as many as believed him went thither to hear his words.",
+    verse: 6,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass after many days there were a goodly number gathered together at the place of Mormon, to hear the words of Alma. Yea, all were gathered together that believed on his word, to hear him. And he did teach them, and did preach unto them repentance, and redemption, and faith on the Lord.",
+    verse: 7,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that he said unto them: Behold, here are the waters of Mormon (for thus were they called) and now, as ye are desirous to come into the fold of God, and to be called his people, and are willing to bear one another’s burdens, that they may be light;",
+    verse: 8,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places that ye may be in, even until death, that ye may be redeemed of God, and be numbered with those of the first resurrection, that ye may have eternal life—",
+    verse: 9,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "Now I say unto you, if this be the desire of your hearts, what have you against being baptized in the name of the Lord, as a witness before him that ye have entered into a covenant with him, that ye will serve him and keep his commandments, that he may pour out his Spirit more abundantly upon you?",
+    verse: 10,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And now when the people had heard these words, they clapped their hands for joy, and exclaimed: This is the desire of our hearts.",
+    verse: 11,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And now it came to pass that Alma took Helam, he being one of the first, and went and stood forth in the water, and cried, saying: O Lord, pour out thy Spirit upon thy servant, that he may do this work with holiness of heart.",
+    verse: 12,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And when he had said these words, the Spirit of the Lord was upon him, and he said: Helam, I baptize thee, having authority from the Almighty God, as a testimony that ye have entered into a covenant to serve him until you are dead as to the mortal body; and may the Spirit of the Lord be poured out upon you; and may he grant unto you eternal life, through the redemption of Christ, whom he has prepared from the foundation of the world.",
+    verse: 13,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And after Alma had said these words, both Alma and Helam were buried in the water; and they arose and came forth out of the water rejoicing, being filled with the Spirit.",
+    verse: 14,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And again, Alma took another, and went forth a second time into the water, and baptized him according to the first, only he did not bury himself again in the water.",
+    verse: 15,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And after this manner he did baptize every one that went forth to the place of Mormon; and they were in number about two hundred and four souls; yea, and they were baptized in the waters of Mormon, and were filled with the grace of God.",
+    verse: 16,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And they were called the church of God, or the church of Christ, from that time forward. And it came to pass that whosoever was baptized by the power and authority of God was added to his church.",
+    verse: 17,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that Alma, having authority from God, ordained priests; even one priest to every fifty of their number did he ordain to preach unto them, and to teach them concerning the things pertaining to the kingdom of God.",
+    verse: 18,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And he commanded them that they should teach nothing save it were the things which he had taught, and which had been spoken by the mouth of the holy prophets.",
+    verse: 19,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "Yea, even he commanded them that they should preach nothing save it were repentance and faith on the Lord, who had redeemed his people.",
+    verse: 20,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And he commanded them that there should be no contention one with another, but that they should look forward with one eye, having one faith and one baptism, having their hearts knit together in unity and in love one towards another.",
+    verse: 21,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And thus he commanded them to preach. And thus they became the children of God.",
+    verse: 22,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.",
+    verse: 23,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And he also commanded them that the priests whom he had ordained should labor with their own hands for their support.",
+    verse: 24,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And there was one day in every week that was set apart that they should gather themselves together to teach the people, and to worship the Lord their God, and also, as often as it was in their power, to assemble themselves together.",
+    verse: 25,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And the priests were not to depend upon the people for their support; but for their labor they were to receive the grace of God, that they might wax strong in the Spirit, having the knowledge of God, that they might teach with power and authority from God.",
+    verse: 26,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And again Alma commanded that the people of the church should impart of their substance, every one according to that which he had; if he have more abundantly he should impart more abundantly; and of him that had but little, but little should be required; and to him that had not should be given.",
+    verse: 27,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And thus they should impart of their substance of their own free will and good desires towards God, and to those priests that stood in need, yea, and to every needy, naked soul.",
+    verse: 28,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And this he said unto them, having been commanded of God; and they did walk uprightly before God, imparting to one another both temporally and spiritually according to their needs and their wants.",
+    verse: 29,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And now it came to pass that all this was done in Mormon, yea, by the waters of Mormon, in the forest that was near the waters of Mormon; yea, the place of Mormon, the waters of Mormon, the forest of Mormon, how beautiful are they to the eyes of them who there came to the knowledge of their Redeemer; yea, and how blessed are they, for they shall sing to his praise forever.",
+    verse: 30,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And these things were done in the borders of the land, that they might not come to the knowledge of the king.",
+    verse: 31,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "But behold, it came to pass that the king, having discovered a movement among the people, sent his servants to watch them. Therefore on the day that they were assembling themselves together to hear the word of the Lord they were discovered unto the king.",
+    verse: 32,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And now the king said that Alma was stirring up the people to rebellion against him; therefore he sent his army to destroy them.",
+    verse: 33,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that Alma and the people of the Lord were apprised of the coming of the king’s army; therefore they took their tents and their families and departed into the wilderness.",
+    verse: 34,
+    chapter: 18
+  },
+  {
+    book_id: 8,
+    text: "And they were in number about four hundred and fifty souls.",
+    verse: 35,
+    chapter: 18
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    book_id: 8,
+    text: "And it came to pass that the army of the king returned, having searched in vain for the people of the Lord.",
+    verse: 1,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And now behold, the forces of the king were small, having been reduced, and there began to be a division among the remainder of the people.",
+    verse: 2,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And the lesser part began to breathe out threatenings against the king, and there began to be a great contention among them.",
+    verse: 3,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And now there was a man among them whose name was Gideon, and he being a strong man and an enemy to the king, therefore he drew his sword, and swore in his wrath that he would slay the king.",
+    verse: 4,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that he fought with the king; and when the king saw that he was about to overpower him, he fled and ran and got upon the tower which was near the temple.",
+    verse: 5,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And Gideon pursued after him and was about to get upon the tower to slay the king, and the king cast his eyes round about towards the land of Shemlon, and behold, the army of the Lamanites were within the borders of the land.",
+    verse: 6,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And now the king cried out in the anguish of his soul, saying: Gideon, spare me, for the Lamanites are upon us, and they will destroy us; yea, they will destroy my people.",
+    verse: 7,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And now the king was not so much concerned about his people as he was about his own life; nevertheless, Gideon did spare his life.",
+    verse: 8,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And the king commanded the people that they should flee before the Lamanites, and he himself did go before them, and they did flee into the wilderness, with their women and their children.",
+    verse: 9,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that the Lamanites did pursue them, and did overtake them, and began to slay them.",
+    verse: 10,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "Now it came to pass that the king commanded them that all the men should leave their wives and their children, and flee before the Lamanites.",
+    verse: 11,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "Now there were many that would not leave them, but had rather stay and perish with them. And the rest left their wives and their children and fled.",
+    verse: 12,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that those who tarried with their wives and their children caused that their fair daughters should stand forth and plead with the Lamanites that they would not slay them.",
+    verse: 13,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that the Lamanites had compassion on them, for they were charmed with the beauty of their women.",
+    verse: 14,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "Therefore the Lamanites did spare their lives, and took them captives and carried them back to the land of Nephi, and granted unto them that they might possess the land, under the conditions that they would deliver up king Noah into the hands of the Lamanites, and deliver up their property, even one half of all they possessed, one half of their gold, and their silver, and all their precious things, and thus they should pay tribute to the king of the Lamanites from year to year.",
+    verse: 15,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And now there was one of the sons of the king among those that were taken captive, whose name was Limhi.",
+    verse: 16,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And now Limhi was desirous that his father should not be destroyed; nevertheless, Limhi was not ignorant of the iniquities of his father, he himself being a just man.",
+    verse: 17,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that Gideon sent men into the wilderness secretly, to search for the king and those that were with him. And it came to pass that they met the people in the wilderness, all save the king and his priests.",
+    verse: 18,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "Now they had sworn in their hearts that they would return to the land of Nephi, and if their wives and their children were slain, and also those that had tarried with them, that they would seek revenge, and also perish with them.",
+    verse: 19,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And the king commanded them that they should not return; and they were angry with the king, and caused that he should suffer, even unto death by fire.",
+    verse: 20,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And they were about to take the priests also and put them to death, and they fled before them.",
+    verse: 21,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that they were about to return to the land of Nephi, and they met the men of Gideon. And the men of Gideon told them of all that had happened to their wives and their children; and that the Lamanites had granted unto them that they might possess the land by paying a tribute to the Lamanites of one half of all they possessed.",
+    verse: 22,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And the people told the men of Gideon that they had slain the king, and his priests had fled from them farther into the wilderness.",
+    verse: 23,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that after they had ended the ceremony, that they returned to the land of Nephi, rejoicing, because their wives and their children were not slain; and they told Gideon what they had done to the king.",
+    verse: 24,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that the king of the Lamanites made an oath unto them, that his people should not slay them.",
+    verse: 25,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And also Limhi, being the son of the king, having the kingdom conferred upon him by the people, made oath unto the king of the Lamanites that his people should pay tribute unto him, even one half of all they possessed.",
+    verse: 26,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And it came to pass that Limhi began to establish the kingdom and to establish peace among his people.",
+    verse: 27,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And the king of the Lamanites set guards round about the land, that he might keep the people of Limhi in the land, that they might not depart into the wilderness; and he did support his guards out of the tribute which he did receive from the Nephites.",
+    verse: 28,
+    chapter: 19
+  },
+  {
+    book_id: 8,
+    text: "And now king Limhi did have continual peace in his kingdom for the space of two years, that the Lamanites did not molest them nor seek to destroy them.",
+    verse: 29,
+    chapter: 19
+  },
 ];
 
 let template = {
