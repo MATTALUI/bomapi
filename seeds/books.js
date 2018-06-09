@@ -50,7 +50,7 @@ exports.seed = function(knex, Promise) {
         {
           id: 7,
           book: 'Words of Mormon',
-          total_chapters: 22,
+          total_chapters: 1,
           total_verses: 618,
           key: 'wom'
         },
